@@ -1,2 +1,8 @@
 remote_theme: fongandrew/hydeout
 title: Sensing
+tagline: 'Explorations in Community Sensing'
+description: 'Some stuff here...'
+url: https://dr-jgsmith.github.io
+
+author:
+  name:'Justin G. Smith'
