@@ -6,3 +6,10 @@ url: https://dr-jgsmith.github.io
 
 author:
   name:'Justin G. Smith'
+
+paginate: 5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
