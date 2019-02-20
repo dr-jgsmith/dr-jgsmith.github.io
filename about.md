@@ -9,9 +9,9 @@ My name is Justin Smith, and I am an Assistant Professor of Community & Economic
 
 ## Research Interests
 
-I am pretty much obsessed with computational approaches to modeling and understanding human behavior. I am particularly interested in the combined role of community sensing systems, and artificial intelligence to enhance human decision making for social and ecological resilience. Much of my work focuses on building sensing and decision-support systems for government, business and other scholars.
+I am pretty much obsessed with computational approaches to modeling and understanding human behavior. I am particularly interested in the combined role of social sensing systems, and artificial intelligence to enhance human decision making for social and ecological resilience. Much of my work focuses on building sensing and decision-support systems for government, business and other scholars.
 
-Expertise
+### Expertise
 
 - Intelligent Data Mining
 - Natural Language Processing
@@ -20,4 +20,5 @@ Expertise
 - Multi-Attribute Decision Analysis
 - Spatial Analysis and GIS
 - Statistical Modeling
+- FAIR Data Management Principles
 
