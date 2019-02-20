@@ -1,10 +1,10 @@
-﻿remote_theme: fongandrew/hydeout
+remote_theme: fongandrew/hydeout
 title: Social Sensing
 description: 'A collection of resources for building social sensing systems.'
 url: https://dr-jgsmith.github.io
 
 author:
-  name:'Justin G. Smith'
+  name: 'Justin G. Smith'
   url: https://www.linkedin.com/in/justingriffissmith/
 
 paginate: 5
