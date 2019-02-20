@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Social Sensing Notebook
+category: Terminology
 ---
 ## Welcome
 
