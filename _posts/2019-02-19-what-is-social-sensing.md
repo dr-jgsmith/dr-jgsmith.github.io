@@ -1,8 +1,7 @@
 ---
 layout: post
 title: What is social sensing?
-categories:
-  - Terminology 
+categories: Terminology 
 ---
 
 'Social sensing'  generally refers to software systems that synthesize sensor data (e.g. GPS, accelerometers) with social media (e.g. Twitter, Facebook) ([Aggarwal & Abdelzaher 2013](https://www3.nd.edu/~dwang5/courses/spring15/papers/intro/socialsense.pdf); [Wang, Abdelzaher, & Kaplan 2015](https://books.google.com/books?hl=en&lr=&id=o-OcBAAAQBAJ&oi=fnd&pg=PP1&dq=social+sensing&ots=5q3KlC6Lsb&sig=Es7Vtl34JhkMcJTPq_0Afiwt9Ys)) to help characterize the set of social states for a given community. 
