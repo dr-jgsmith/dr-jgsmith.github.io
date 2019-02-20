@@ -5,8 +5,6 @@ sidebar_link: true
 comments: false
 ---
 
-## Introduction
-
 My name is Justin Smith, and I am an Assistant Professor of Community & Economic Development at [Washington State University](http://wsu.edu/). I work as an applied research scientist with the [Metropolitan Center for Applied Research and Extension](https://metrocenter.wsu.edu/) @ WSU. 
 
 ## Research Interests
