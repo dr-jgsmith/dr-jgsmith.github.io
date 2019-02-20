@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Some Applications of Social Sensing Systems
+categories:
+  - Terminology
 ---
 
 Social sensing systems can be used to monitor social states and trends associated with places and communities over time. These data can be used to: 
